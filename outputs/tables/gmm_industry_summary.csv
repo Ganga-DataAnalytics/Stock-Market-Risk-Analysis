@@ -1,0 +1,12 @@
+GMM_Cluster,Industry_Code,Industry_Name,number_of_stocks
+0,H,"Finance, Insurance and Real Estate",13
+0,E,Transportation and Public Utilities,4
+0,G,Retail Trade,4
+1,H,"Finance, Insurance and Real Estate",17
+1,E,Transportation and Public Utilities,14
+1,F,Wholesale Trade,10
+1,I,Services,8
+1,D,Manufacturing,7
+1,B,Mining,4
+1,G,Retail Trade,4
+2,H,"Finance, Insurance and Real Estate",7
